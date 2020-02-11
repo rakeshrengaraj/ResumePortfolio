@@ -1,0 +1,196 @@
+{
+    "name": "Rakesh Rengaraj",
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQGh1iv8hZQk2Q/profile-displayphoto-shrink_200_200/0?e=1586995200&v=beta&t=PAhPA9zi2Pnirc934WZsUJh6enjnWadqw6zOj8_Js24",
+    "email": "rakesh.rengaraj@gmail.com",
+    "phone": "9004840977",
+    "title": "Senior Software Developer",
+    "linkedin": "rakesh-rengaraj-85709358",
+    "linkedinURL": "https://www.linkedin.com/in/rakesh-rengaraj-85709358/",
+    "github": "rakesh19487",
+    "githubURL": "https://github.com/rakesh19487",
+
+    "summary": "I am a web developer with about 8 years of professional experience in various web based technologies like Ruby on Rails, javascript, jquery, html, css etc . I have a graduation degree from University of Mumbai I am dedicated,hard working  and inquisitive professional and strive for perfection and excellence in my work.",
+
+    "experiences": [
+        {
+            "title": "Senior Developer",
+            "period": "2012-2019",
+            "company": "QuoDeck Technologies",
+            "companyURL": "https://www.quodeck.com",
+            "details": "QuoDeck is a Mumbai based startup and I was amongst  first set employees of the organisation.We are into serious games and simulations and cater corporates to fulfil their learning requirements with the help of Gamification. We are a product company as well as a services company to cater external clients for custom requirements. I am a senior developer and I work individually as well as in a team of about 6 to 7 people. \r\n My responsibilities involves designing ,architecting, interacting with clients(Project Management) and execution of  custom solutions for our clients. On the product side, I have architected and designed the product and I am also responsible for global deployment of the product. One of the key role is to implement efficiently and train people in the new technologies introduced by the organisation make sure the team is as efficient as possible in execution."
+
+        },
+        {
+            "title": "FM NNOC Engineer",
+            "period": "2010-2012",
+            "company": "ADDECO PVT LTD",
+            "companyURL": "https://www.adecco.co.in/",
+            "details": "Worked for Alcatel-Lucent, a French global telecommunications equipment company, headquartered in Boulogne-Billancourt, France.In this job, my role was more in the support and maintenance team as a fresher. My key responsibilities included monitoring and maintenance of BTS and BSC and raising alarms."
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "SachinMemoryProject",
+            "url": "http://starsachin.quodeck.com",
+            "details": "This is a project in collaboration with Star sports that we had made.  This was a huge project as we had about 5Lakhs unique visitors. The project was portraying the career of Sachin Tendulkar in a time line and a tribute to him at the time of his retirement."
+
+        },
+        {
+            "name": "Dialogger",
+            "url": "http://dialogger.quodeck.com ",
+            "details": "This is a negotiation based simulation game allowed the users to negotiate about a particular situation given to them and reach a conclusion, it’s basically  used to train people with sales skills,where you have to choose the right option to keep the customer interested in that particular situation."
+        },
+        {
+            "name": "AgileDex",
+            "url": "https://www.youtube.com/watch?v=z5o8eJfbv74",
+            "details": "This is a online presentation creator. It acts as an alternative to powerpoint which uses the power of HTML and web to create powerful presentations in minutes."
+        },
+        {
+            "name": "Procialize",
+            "url": "Not Available",
+            "details": "The initial version of Procialize which is a ruby on rails project was authored by me. The idea of the project was creation of a social network portal for events. The application added the essence of social networking in events helping events attendees to inter connect better helping their business grow basis networking and it helped event organisers so connect with their audience to make it a lively and engaging events"
+        },
+        {
+            "name": "Documentor",
+            "url": "Not Available",
+            "details": "This is a documentation training tool which has a wide application in banking industry. The goal is to train the player (user) about the various documents and test the clerical jobs. This helps in jobs like loan document verification. It is currently not available online."
+        },
+        {
+            "name": "QuoDeck",
+            "url": "https://www.quodeck.com",
+            "details": "This is a online gamified content authoring tool where people can use their existing content and using our tool can create a gamified platforms where other users can come and learn using the concept of Gamification"
+        }
+    ],
+    "subprojects":[
+        {
+            "name": "RHIL",
+            "weburl": "https://masterji.reliancehealthinsurance.com",
+            "mobileapp": "https://play.google.com/store/apps/details?id=com.masterji"
+
+        },
+        {
+            "name": "CavinKare",
+            "weburl": "https://gurukul.cavinkare.com",
+            "mobileapp": "https://play.google.com/store/apps/details?id=com.gurukulcavinkare"
+
+        },
+        {
+            "name": "HUL",
+            "weburl": "https://paathshaala.quodeck.com",
+            "mobileapp": "https://play.google.com/store/apps/details?id=com.quodeck.paathshaala"
+
+        },
+        {
+            "name": "Kohler",
+            "weburl": "https://kohlerquodeck.com",
+            "mobileapp": "https://play.google.com/store/apps/details?id=com.kohler.kointheknow"
+
+        },
+        {
+            "name": "Star Tv",
+            "weburl": "https://salesacademy.startv.com",
+            "mobileapp": "Not Available"
+
+        },
+        {
+            "name": "Incred",
+            "weburl": "https://incredintro.quodeck.com",
+            "mobileapp": "Not Available"
+
+        },
+        {
+            "name": "L & T hydrocarbon",
+            "weburl": "https://lnthydrocarbon.quodeck.com",
+            "mobileapp": "Not Available"
+
+        },
+        {
+            "name": "KIDS Learning App (Internal)",
+            "weburl": "https://explore.quodeck.com",
+            "mobileapp": "https://play.google.com/store/apps/details?id=com.quodeck.nurseryrhymes"
+
+        },   
+        {
+            "name": "Mythology App  (Internal)",
+            "weburl": "https://explore.quodeck.com",
+            "mobileapp": "https://play.google.com/store/apps/details?id=com.quodeck.greekmythology"
+
+        }   
+   
+     ],
+    "skills":[
+        {
+            "name": "Ruby on Rails",
+            "percentage":"85%"
+        },
+        {
+            "name": "React",
+            "percentage":"35%"
+        },
+        {
+            "name": "Javascript",
+            "percentage":"75%"
+        },
+        {
+            "name": "Jquery",
+            "percentage":"72%"
+        },
+        {
+            "name": "HTML",
+            "percentage":"80%"
+        },
+        {
+            "name": "CSS",
+            "percentage":"75%"
+        },
+        {
+            "name": "Nginx",
+            "percentage":"70%"
+        },
+        {
+            "name": "Passenger",
+            "percentage":"70%"
+        },
+        {
+            "name": "MongoDB",
+            "percentage":"60%"
+        },
+        {
+            "name": "PostgresSQL",
+            "percentage":"65%"
+        }
+    ], 
+    "educations":[
+        {
+            "degree": "BE (Electronics and Telecommunication)",
+            "university": "Mumbai University",
+            "period": "2005 - 2009"
+        },
+        {
+            "degree": "Higher Secondary Certificate",
+            "university": "Maharashtra State Board",
+            "period": "2004 - 2005"
+        },
+        {
+            "degree": "Secondary School Certificate",
+            "university": "Maharashtra State Board",
+            "period": "2002 - 2003"
+        }
+    ], 
+    "languages":[
+        {
+            "name": "English"
+        },
+        {
+            "name": "Hindi"
+        },
+        {
+            "name": "Marathi"
+        },
+        {
+            "name": "Tamil"
+        }
+    ]
+
+}
