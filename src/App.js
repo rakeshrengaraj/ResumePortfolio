@@ -126,7 +126,7 @@ class App extends Component {
             <h6>Worked as a Project Manager to deploy our product QuoDeck with custom features for the following clients.</h6>
             <div className="skillset">
                {this.renderSubProjects()}
-               Worked with the client which are not available online ABSLI, RNLIC, Jana Bank, Axis Bank  etc.
+               Also worked with the clients such as ABSLI, RNLIC, Jana Bank, Axis Bank etc and the apps for this clients are not available online now.
             </div>
 
           </section>
